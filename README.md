@@ -1,4 +1,4 @@
-# Sample project for Mobile testing using Appium, Java, TestNG and Maven
+# Test Automation E2E project of Ecommerce product for Mobile testing using Appium, Java, TestNG and Maven - 
 This project uses page object factory pattern to avoid tests being too sensitive to UI changes.
 This project uses data driven approach in order to keep data separate from functional test logic and to aid with quick scaling.
 This project uses testNG test framework for its sophisticated features such as html run reports, ability to group and prioritize tests, parallel testing, data parameterization.
